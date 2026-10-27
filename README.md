@@ -31,4 +31,3 @@ Proyecto desarrollado como parte de mi portafolio en tecnología y análisis de 
 ##Vista previa del dashboard
 ![Dashboard de ventas de pollos]
 (dashboard.png)
-
