@@ -28,6 +28,7 @@ de un pequeño negocio en el campo.
 Autor
 Proyecto desarrollado como parte de mi portafolio en tecnología y análisis de datos.
 
-## Vista previa del dashboard
+##Vista previa del dashboard
 ![Dashboard de ventas de pollos]
 (dashboard.png)
+
